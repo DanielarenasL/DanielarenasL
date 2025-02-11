@@ -1,12 +1,7 @@
 <h2 align="left">Hi! My name is Daniel and I'm a BackEnd developer from Colombia</h2>
 
 ###
-<div height="300">
-  <a href="https://danielarenasl.github.io/Portafolio/" >
-    <img src="https://i.postimg.cc/3RqS4k6R/image.png"  />
-  </a>
-</div>
-
+<a href='https://postimg.cc/1gL1JJ37' target='_blank'><img src='./image.png' border='0' alt='image'/></a>
 
 <div align="center" margin="0" padding="0">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielarenasL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" height="150" alt="stats graph" />
