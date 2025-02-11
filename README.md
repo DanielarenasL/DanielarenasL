@@ -2,6 +2,9 @@
 
 ###
 
+<a href="https://danielarenasl.github.io/Portafolio/">
+  <img src="https://i.postimg.cc/3RqS4k6R/image.png" />
+</a>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielarenasL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=DanielarenasL&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="160" alt="streak graph" />
