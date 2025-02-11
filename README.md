@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielarenasL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=DanielarenasL&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="160" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielarenasL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&custom_title=My%20used%20languages" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielarenasL&hide=TeX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&custom_title=My%20used%20languages" height="160" alt="languages graph" />
 </div>
 
 ###
@@ -53,6 +53,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DanielarenasL&theme=discord&column=4&row=10&margin-w=8&margin-h=8&no-frame=true" alt="trophy graph" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielarenasL&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph" />
 </div>
