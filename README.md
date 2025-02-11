@@ -1,11 +1,14 @@
 <h2 align="left">Hi! My name is Daniel and I'm a BackEnd developer from Colombia</h2>
 
 ###
+<div height="300">
+  <a href="https://danielarenasl.github.io/Portafolio/" >
+    <img src="https://i.postimg.cc/3RqS4k6R/image.png"  />
+  </a>
+</div>
 
-<a href="https://danielarenasl.github.io/Portafolio/">
-  <img src="https://i.postimg.cc/3RqS4k6R/image.png" />
-</a>
-<div align="center">
+
+<div align="center" margin="0" padding="0">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielarenasL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&cache_seconds=1800&token=YOUR_PERSONAL_ACCESS_TOKEN" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=DanielarenasL&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5" height="160" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielarenasL&hide=TeX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=false&custom_title=My%20used%20languages" height="160" alt="languages graph" />
